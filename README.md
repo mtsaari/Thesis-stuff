@@ -1,3 +1,3 @@
-# Thesis
-Thesis Stan models
-Stan models used in my Master's thesis
+# Thesis Numpyro Demo and Stan model
+This repository contains a demo of my thesis topic based on numpyro + a Stan model used in the applied section of the thesis.
+
